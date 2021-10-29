@@ -347,4 +347,4 @@ async def ping(ctx):
 # Token + Start
 print("\n\n#---------------#\n\n")
 print("[BreakBot] Starting...")
-bot.run("NzExODU2NzgxMzExMzQ0NzEx.XsJGSg.UBvcs4lbS8LEf6LfOg1Dz5M3PdE")
+bot.run()
